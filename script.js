@@ -20,6 +20,13 @@ const apps = [
     url: "https://quadratics.learnwithcole.com/",
     icon: "gamepad",
     color: "#0d6efd"
+  },
+  {
+    title: "Titration Curves",
+    description: "Explore types of titration curve with interactive simulator",
+    url: "htts://tcurves.learnwithcole.com",
+    icon: "flask-round",
+    color: "#05cdfe"
   }
 ];
 
