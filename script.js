@@ -17,14 +17,14 @@ const apps = [
   {
     title: "Edu-Quadratics",
     description: "Generate quadratic expressions for factorization",
-    url: "https://quadratics.learnwithcole.com/",
+    url: "https://akono-flow.github.io/quadratics-gen/",
     icon: "gamepad",
     color: "#0d6efd"
   },
   {
     title: "Titration Curves",
     description: "Explore types of titration curve with interactive simulator",
-    url: "htts://tcurves.learnwithcole.com",
+    url: "htts://akono-flow.github.io/titration-curves/",
     icon: "flask-round",
     color: "#05cdfe"
   }
