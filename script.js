@@ -13,6 +13,13 @@ const apps = [
     url: "https://akono-flow.github.io/edu-jeopardy/",
     icon: "gamepad-2",
     color: "#e83e8c"
+  },
+  {
+    title: "Edu-Quadratics",
+    description: "Generate quadratic expressions for factorization",
+    url: "https://quadratics.learnwithcole.com/",
+    icon: "gamepad",
+    color: "#0d6efd"
   }
 ];
 
