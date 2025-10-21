@@ -27,6 +27,13 @@ const apps = [
     url: "https://tcurves.learnwithcole.com/",
     icon: "flask-round",
     color: "#05cdfe"
+  },
+  {
+    title: "Simple Harmonic Oscillator",
+    description: "Simulate SHM Motion with this interactive simulator",
+    url: "http://oscillator.learnwithcole.com/",
+    icon: "wand-sparkles",
+    color: "#06cdaf"
   }
 ];
 
