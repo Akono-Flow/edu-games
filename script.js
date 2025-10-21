@@ -24,7 +24,7 @@ const apps = [
   {
     title: "Titration Curves",
     description: "Explore types of titration curve with interactive simulator",
-    url: "htts://akono-flow.github.io/titration-curves/",
+    url: "https://tcurves.learnwithcole.com/",
     icon: "flask-round",
     color: "#05cdfe"
   }
