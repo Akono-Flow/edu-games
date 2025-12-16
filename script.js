@@ -35,13 +35,13 @@ const apps = [
     icon: "wand-sparkles",
     color: "#06cdaf"
   },
-  {
-    title: "SCQ Visual Capture",
-    description: "Captures visuals from TVJ matches",
-    url: "https://scqviscap.learnwithcole.com/",
-    icon: "video",
-    color: "#06cdaf"
-  },
+  // {
+  //   title: "SCQ Visual Capture",
+  //   description: "Captures visuals from TVJ matches",
+  //   url: "https://scqviscap.learnwithcole.com/",
+  //   icon: "video",
+  //   color: "#06cdaf"
+  // },
   // {
   //   title: "Radioactivity Simulator",
   //   description: "Explore Band of Stability with Simulation",
