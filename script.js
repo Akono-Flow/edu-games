@@ -41,6 +41,13 @@ const apps = [
     url: "https://scqviscap.learnwithcole.com/",
     icon: "video",
     color: "#06cdaf"
+  },
+  {
+    title: "Radioactivity Simulator",
+    description: "Explore Band of Stability with Simulation",
+    url: "https://radioactive.learnwithcole.com/",
+    icon: "radiation",
+    color: "#e83e8c"
   }
 ];
 
