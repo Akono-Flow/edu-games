@@ -48,6 +48,13 @@ const apps = [
     url: "https://radioactive.learnwithcole.com/",
     icon: "radiation",
     color: "#e83e8c"
+  },
+  {
+    title: "Quiz Zip Merger",
+    description: "Combine multiple zip folders into one from screenshot workflow",
+    url: "https://scqvismerge.learnwithcole.com/",
+    icon: "video",
+    color: "#0d6efd"
   }
 ];
 
