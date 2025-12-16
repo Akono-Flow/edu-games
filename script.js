@@ -31,14 +31,14 @@ const apps = [
   {
     title: "Simple Harmonic Oscillator",
     description: "Simulate SHM Motion with this interactive simulator",
-    url: "http://oscillator.learnwithcole.com/",
+    url: "https://oscillator.learnwithcole.com/",
     icon: "wand-sparkles",
     color: "#06cdaf"
   },
   {
     title: "SCQ Visual Capture",
     description: "Captures visuals from TVJ matches",
-    url: "http://scqviscap.learnwithcole.com/",
+    url: "https://scqviscap.learnwithcole.com/",
     icon: "video",
     color: "#06cdaf"
   }
