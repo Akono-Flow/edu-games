@@ -34,7 +34,7 @@ const apps = [
     url: "https://oscillator.learnwithcole.com/",
     icon: "wand-sparkles",
     color: "#06cdaf"
-  },
+  }
   // {
   //   title: "SCQ Visual Capture",
   //   description: "Captures visuals from TVJ matches",
