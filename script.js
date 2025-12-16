@@ -34,21 +34,21 @@ const apps = [
     url: "https://oscillator.learnwithcole.com/",
     icon: "wand-sparkles",
     color: "#06cdaf"
+  },
+  {
+    title: "SCQ Visual Capture",
+    description: "Captures visuals from TVJ matches",
+    url: "https://scqviscap.learnwithcole.com/",
+    icon: "video",
+    color: "#06cdaf"
+  },
+  {
+    title: "Radioactivity Simulator",
+    description: "Explore Band of Stability with Simulation",
+    url: "https://radioactive.learnwithcole.com/",
+    icon: "radiation",
+    color: "#e83e8c"
   }
-  // {
-  //   title: "SCQ Visual Capture",
-  //   description: "Captures visuals from TVJ matches",
-  //   url: "https://scqviscap.learnwithcole.com/",
-  //   icon: "video",
-  //   color: "#06cdaf"
-  // },
-  // {
-  //   title: "Radioactivity Simulator",
-  //   description: "Explore Band of Stability with Simulation",
-  //   url: "https://radioactive.learnwithcole.com/",
-  //   icon: "radiation",
-  //   color: "#e83e8c"
-  // }
 ];
 
 const gallery = document.getElementById("gallery");
