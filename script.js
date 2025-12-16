@@ -34,6 +34,13 @@ const apps = [
     url: "http://oscillator.learnwithcole.com/",
     icon: "wand-sparkles",
     color: "#06cdaf"
+  },
+  {
+    title: "SCQ Visual Capture",
+    description: "Captures visuals from TVJ matches",
+    url: "http://scqviscap.learnwithcole.com/",
+    icon: "video",
+    color: "#06cdaf"
   }
 ];
 
