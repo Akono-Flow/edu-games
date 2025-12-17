@@ -55,6 +55,13 @@ const apps = [
     url: "https://scqvismerge.learnwithcole.com/",
     icon: "video",
     color: "#0d6efd"
+  },
+  {
+    title: "Scorer and Timer",
+    description: "Explore Ideas and topics with Crossword",
+    url: "https://scqtimer.learnwithcole.com/",
+    icon: "gamepad-2",
+    color: "#0d6efd"
   }
 ];
 
