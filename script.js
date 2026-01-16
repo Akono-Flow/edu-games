@@ -62,7 +62,14 @@ const apps = [
     url: "https://scqtimer.learnwithcole.com/",
     icon: "gamepad-2",
     color: "#0d6efd"
-  }
+  },
+  {
+    title: "SCQ Viewer",
+    description: "Manipulate all dimensions of quiz resources",
+    url: "htpps://iviewer.learnwithcole.com/",
+    icon: "gamepad-2",
+    color: "#fec003"
+  },
 ];
 
 const gallery = document.getElementById("gallery");
