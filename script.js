@@ -76,7 +76,7 @@ const apps = [
     url: "https://iscribe.learnwithcole.com",
     icon: "video",
     color: "05cdfe"
-  },
+  }
 ];
 
 const gallery = document.getElementById("gallery");
