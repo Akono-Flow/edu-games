@@ -75,7 +75,7 @@ const apps = [
     description: "Creates Images, Audio and Text data",
     url: "https://iscribe.learnwithcole.com",
     icon: "wand-sparkles",
-    color: "0d6efd"
+    color: "05cdfe"
   },
 ];
 
