@@ -74,8 +74,8 @@ const apps = [
     title: "SCQ Video Center",
     description: "Creates Images, Audio and Text data",
     url: "https://iscribe.learnwithcole.com",
-    icon: "video",
-    color: "e83e8c"
+    icon: "wand-sparkles",
+    color: "0d6efd"
   },
 ];
 
