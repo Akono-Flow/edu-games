@@ -66,9 +66,9 @@ const apps = [
   {
     title: "SCQ Viewer",
     description: "Manipulate all dimensions of quiz resources",
-    url: "htpps://iviewer.learnwithcole.com/",
+    url: "https://iviewer.learnwithcole.com/",
     icon: "gamepad-2",
-    color: "#fec003"
+    color: "#0d6efd"
   },
 ];
 
