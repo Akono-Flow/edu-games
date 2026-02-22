@@ -76,6 +76,13 @@ const apps = [
     url: "https://iscribe.learnwithcole.com",
     icon: "video",
     color: "05cdfe"
+  },
+  {
+    title: "SCQ Visual Center",
+    description: "Displays Images from TVJ's School's Challenge Quiz",
+    url: "https://visuals.learnwithcole.com",
+    icon: "image",
+    color: "05cdfe"
   }
 ];
 
