@@ -81,7 +81,7 @@ const apps = [
     title: "SCQ Visual Center",
     description: "Displays Images from TVJ's School's Challenge Quiz",
     url: "https://visuals.learnwithcole.com",
-    icon: "image",
+    icon: "gamepad-2",
     color: "05cdfe"
   }
 ];
