@@ -83,6 +83,13 @@ const apps = [
     url: "https://visuals.learnwithcole.com",
     icon: "gamepad-2",
     color: "05cdfe"
+  },
+   {
+    title: "SCQ Buzzers",
+    description: "Displays buzzers from TVJ's School's Challenge Quiz",
+    url: "https://buzzers.learnwithcole.com",
+    icon: "gamepad-2",
+    color: "#0d6efd"
   }
 ];
 
