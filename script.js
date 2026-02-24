@@ -56,41 +56,41 @@ const apps = [
   //   icon: "video",
   //   color: "#0d6efd"
   // },
-  {
-    title: "Scorer and Timer",
-    description: "Explore Ideas and topics with Crossword",
-    url: "https://scqtimer.learnwithcole.com/",
-    icon: "gamepad-2",
-    color: "#0d6efd"
-  },
-  {
-    title: "SCQ Viewer",
-    description: "Manipulate all dimensions of quiz resources",
-    url: "https://iviewer.learnwithcole.com/",
-    icon: "gamepad-2",
-    color: "#0d6efd"
-  },
-  {
-    title: "SCQ Video Center",
-    description: "Creates Images, Audio and Text data",
-    url: "https://iscribe.learnwithcole.com",
-    icon: "video",
-    color: "05cdfe"
-  },
-  {
-    title: "SCQ Visual Center",
-    description: "Displays Images from TVJ's School's Challenge Quiz",
-    url: "https://visuals.learnwithcole.com",
-    icon: "gamepad-2",
-    color: "05cdfe"
-  },
-   {
-    title: "SCQ Buzzers",
-    description: "Displays buzzers from TVJ's School's Challenge Quiz",
-    url: "https://buzzers.learnwithcole.com",
-    icon: "gamepad-2",
-    color: "#0d6efd"
-  }
+  // {
+  //   title: "Scorer and Timer",
+  //   description: "Explore Ideas and topics with Crossword",
+  //   url: "https://scqtimer.learnwithcole.com/",
+  //   icon: "gamepad-2",
+  //   color: "#0d6efd"
+  // },
+  // {
+  //   title: "SCQ Viewer",
+  //   description: "Manipulate all dimensions of quiz resources",
+  //   url: "https://iviewer.learnwithcole.com/",
+  //   icon: "gamepad-2",
+  //   color: "#0d6efd"
+  // },
+  // {
+  //   title: "SCQ Video Center",
+  //   description: "Creates Images, Audio and Text data",
+  //   url: "https://iscribe.learnwithcole.com",
+  //   icon: "video",
+  //   color: "05cdfe"
+  // },
+  // {
+  //   title: "SCQ Visual Center",
+  //   description: "Displays Images from TVJ's School's Challenge Quiz",
+  //   url: "https://visuals.learnwithcole.com",
+  //   icon: "gamepad-2",
+  //   color: "05cdfe"
+  // },
+  //  {
+  //   title: "SCQ Buzzers",
+  //   description: "Displays buzzers from TVJ's School's Challenge Quiz",
+  //   url: "https://buzzers.learnwithcole.com",
+  //   icon: "gamepad-2",
+  //   color: "#0d6efd"
+  // }
 ];
 
 const gallery = document.getElementById("gallery");
