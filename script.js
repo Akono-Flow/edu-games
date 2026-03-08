@@ -1,4 +1,4 @@
-// Each app now has an icon name and a color
+// Each app has an icon name and a color
 const apps = [
   // {
   //   title: "Edu-Crossword",
@@ -7,13 +7,13 @@ const apps = [
   //   icon: "gamepad-2",
   //   color: "#0d6efd"
   // },
-  {
-    title: "Edu-Jeopardy",
-    description: "Explore Ideas and topics with Jeopardy",
-    url: "https://akono-flow.github.io/edu-jeopardy/",
-    icon: "gamepad-2",
-    color: "#e83e8c"
-  },
+  // {
+  //   title: "Edu-Jeopardy",
+  //   description: "Explore Ideas and topics with Jeopardy",
+  //   url: "https://akono-flow.github.io/edu-jeopardy/",
+  //   icon: "gamepad-2",
+  //   color: "#e83e8c"
+  // },
   // {
   //   title: "Edu-Quadratics",
   //   description: "Generate quadratic expressions for factorization",
@@ -21,20 +21,20 @@ const apps = [
   //   icon: "gamepad",
   //   color: "#0d6efd"
   // },
-  {
-    title: "Titration Curves",
-    description: "Explore types of titration curve with interactive simulator",
-    url: "https://tcurves.learnwithcole.com/",
-    icon: "flask-round",
-    color: "#05cdfe"
-  },
-  {
-    title: "Simple Harmonic Oscillator",
-    description: "Simulate SHM Motion with this interactive simulator",
-    url: "https://oscillator.learnwithcole.com/",
-    icon: "wand-sparkles",
-    color: "#06cdaf"
-  },
+  // {
+  //   title: "Titration Curves",
+  //   description: "Explore types of titration curve with interactive simulator",
+  //   url: "https://tcurves.learnwithcole.com/",
+  //   icon: "flask-round",
+  //   color: "#05cdfe"
+  // },
+  // {
+  //   title: "Simple Harmonic Oscillator",
+  //   description: "Simulate SHM Motion with this interactive simulator",
+  //   url: "https://oscillator.learnwithcole.com/",
+  //   icon: "wand-sparkles",
+  //   color: "#06cdaf"
+  // },
   // {
   //   title: "SCQ Visual Capture",
   //   description: "Captures visuals from TVJ matches",
