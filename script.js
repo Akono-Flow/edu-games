@@ -3,14 +3,14 @@ const apps = [
   {
     title: "Edu-Crossword",
     description: "Explore Ideas and topics with Crossword",
-    url: "https://akono-flow.github.io/crossword/",
+    url: "https://crossword.learnwithcole.com/",
     icon: "gamepad-2",
     color: "#0d6efd"
   },
   {
     title: "Edu-Jeopardy",
     description: "Explore Ideas and topics with Jeopardy",
-    url: "https://akono-flow.github.io/edu-jeopardy/",
+    url: "https://jeopardy.learnwithcole.com/",
     icon: "gamepad-2",
     color: "#e83e8c"
   },
